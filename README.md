@@ -1,6 +1,5 @@
-##GDSC FE 1팀 : REACT STUDY 과제
-
 # 키오스크 넘패드 만들기
+(GDSC FE 1팀 : REACT STUDY 과제)
 
 ![ezgif-5-abcdafe162](https://user-images.githubusercontent.com/74360958/149557433-0a5733e2-b391-4985-9e16-29dc206a19e4.gif)
 
