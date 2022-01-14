@@ -1,0 +1,17 @@
+.calling {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  font-size: 25px;
+  line-height: 100px;
+  font-family: "Roboto", sans-serif;
+}
+
+.item {
+  font-size: 100px !important;
+}
+
+.end {
+  margin-top: 100px;
+}
