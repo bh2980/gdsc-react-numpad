@@ -1,4 +1,4 @@
-# 키오스크 넘패드 만들기
+# 키오스크 넘패드 만들기  <img src="https://img.shields.io/badge/React-61DAFB?style=round&logo=React&logoColor=white">
 GDSC FE 1팀 : REACT STUDY 과제
 
 
